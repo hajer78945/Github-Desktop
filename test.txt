@@ -1,10 +1,2 @@
-<<<<<<< HEAD
-dd  888888885s5516161sadasd6as4da5sd
-=======
-<<<<<<< HEAD
-1.
-2.
-=======
-ssdadasdsssssssssssssssssssssssssssssssss1566666666666666444444444488888888888885s5516161sadasd6as4da5sd
->>>>>>> 522b1b4b4c154c94fc502f29db92862cce05ee63
->>>>>>> 3aa09d142d6d6ab1666e9c908707a2fe7f3a6588
+
+dd  888888885s5516
