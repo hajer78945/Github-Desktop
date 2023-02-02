@@ -1,13 +1,10 @@
-# myTest15
+# myTest
 usage: 
 
-fdhgdh
-sdbgh'
-asgj
+1. Commit to master
+2. Fetch origin
 
-
-dfh
-
+can be update to github
 
 
 
