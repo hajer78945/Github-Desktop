@@ -18,6 +18,7 @@ usage:
 5. git log //can see what people changed and the log
 6. git commit -m commitment //must add the commitment, commitment can change
 7. git push // to update the github web
+8. git config pull.rebase false //When in conflict
 
 
 
